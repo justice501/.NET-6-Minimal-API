@@ -1,0 +1,10 @@
+C:\Users\Tshiamor\Documents\Test Projects\Net6API\MinimalAPI\UserDB\bin\Debug\UserDB.dacpac
+C:\Users\Tshiamor\Documents\Test Projects\Net6API\MinimalAPI\UserDB\bin\Debug\UserDB.dll
+C:\Users\Tshiamor\Documents\Test Projects\Net6API\MinimalAPI\UserDB\bin\Debug\UserDB.pdb
+C:\Users\Tshiamor\Documents\Test Projects\Net6API\MinimalAPI\UserDB\obj\Debug\UserDB.sqlproj.AssemblyReference.cache
+C:\Users\Tshiamor\Documents\Test Projects\Net6API\MinimalAPI\UserDB\obj\Debug\Model.xml
+C:\Users\Tshiamor\Documents\Test Projects\Net6API\MinimalAPI\UserDB\obj\Debug\refactor.xml
+C:\Users\Tshiamor\Documents\Test Projects\Net6API\MinimalAPI\UserDB\obj\Debug\postdeploy.sql
+C:\Users\Tshiamor\Documents\Test Projects\Net6API\MinimalAPI\UserDB\obj\Debug\predeploy.sql
+C:\Users\Tshiamor\Documents\Test Projects\Net6API\MinimalAPI\UserDB\obj\Debug\UserDB.dll
+C:\Users\Tshiamor\Documents\Test Projects\Net6API\MinimalAPI\UserDB\obj\Debug\UserDB.pdb
